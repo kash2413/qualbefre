@@ -1,0 +1,26 @@
+a.button {
+	background: -webkit-linear-gradient(top, #d5d5d5, #c0c0c0);
+	border-radius: 3px;
+	box-shadow: 0 2px 0 #aaa;
+	color: #333;
+	display: inline-block;
+	font-weight: bold;
+	padding: 5px 10px;
+	text-shadow: 0 1px 0 #eee;
+}
+
+a.button:hover {
+	background: -webkit-linear-gradient(top, #e5e5e5, #d0d0d0);
+	text-decoration: none;
+}
+
+.callout {
+	background: #ffffe0;
+	border: #f8e36b solid 1px;
+	margin: 1em;
+	padding: 1em 1em 0.5em;
+}
+
+.callout p {
+	margin: 0 0 0.5em;
+}
